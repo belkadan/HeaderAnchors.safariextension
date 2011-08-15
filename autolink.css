@@ -1,0 +1,11 @@
+.com-belkadan-headeranchors-link:link,
+.com-belkadan-headeranchors-link:hover,
+.com-belkadan-headeranchors-link:visited,
+.com-belkadan-headeranchors-link:active
+{
+	color: inherit !important;
+	background-color: inherit !important;
+	text-decoration: inherit !important;
+	font-style: inherit !important;
+	font-family: inherit !important;
+}
